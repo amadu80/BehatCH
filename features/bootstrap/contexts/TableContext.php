@@ -1,9 +1,9 @@
 <?php
 
+namespace Behat\Behatch\Behat\Context;
+
 use \Behat\Behat\Context\BehatContext,
     \Behat\Gherkin\Node\TableNode;
-
-require_once __DIR__ . '/../Bootstrap.php';
 
 /**
  * This context is intended for Browser interractions
