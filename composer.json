@@ -1,12 +1,11 @@
 {
-    "name": "amadu/behatch-contexts",
+    "name": "amadu/behatch",
     "description": "Behatch contexts",
     "keywords": ["BDD", "Behat", "Symfony2", "Context"],
     "type": "library",
     "license": "beerware",
 
     "require": {
-        "sanpi/behatch-contexts": "*"
     },
 
     "autoload": {
